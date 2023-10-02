@@ -3,7 +3,7 @@
 Final project for SICI 4030 Term C21 (Databases Course) at the University of Puerto Rico - Bayamon Campus. For this project we were asked to develop a relational database for a client given a <a href="./problem_description.pdf" target="_blank">problem description</a>. In this case, our client was a veterinary clinic looking to expand to additional locations. Given the need for a system to track all of the patient files and employee records, we were tasked to design and implement a relational database for them.
 
 ## Database Requirements
-These are the attributes that we need to collect from the different entities that will be included in the database. To see how these entities relate to each other check out the database <a href="./matrix.xslx">matrix object</a> or the complete <a href="./erd.png" target="_blank">ERD</a>.
+These are the attributes that we need to collect from the different entities that will be included in the database. To see how these entities relate to each other check out the database <a href="./matrix.xlsx">matrix object</a> or the complete <a href="./erd.png" target="_blank">ERD</a>.
 <ul>
   <li>Owner (Dueño) 👩‍🦱</li>
     <ul>
